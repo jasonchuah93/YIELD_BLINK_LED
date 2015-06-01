@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g2 -Map=Test01.map -O0 --gc-sections -LC:/Users/Student/CoIDE/workspace/RTOS_LED_BLINK_GPIO-master -TC:/Users/Student/CoIDE/workspace/RTOS_LED_BLINK_GPIO-master/stm32f407vg_flash.ld -g">
+      <target file="Test01.elf" lastModified="14dad4da991">
+         <source file="..\obj\initializeLEDs.o" lastModified="14dad4da55c"/>
+         <source file="..\obj\secondAssignment.o" lastModified="14dad4da6f2"/>
+         <source file="..\obj\forthAssignment.o" lastModified="14dad4da7ad"/>
+         <source file="..\obj\thirdAssignment.o" lastModified="14dad4da32b"/>
+         <source file="..\obj\stm32f4xx_hal_cortex.o" lastModified="14dad4da5d9"/>
+         <source file="..\obj\testYield.o" lastModified="14dad4da750"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14dad4da618"/>
+         <source file="..\obj\stm32f4xx_hal.o" lastModified="14dad4da463"/>
+         <source file="..\obj\button.o" lastModified="14dad4da2be"/>
+         <source file="..\obj\stm32f4xx_hal_gpio.o" lastModified="14dad4da685"/>
+         <source file="..\obj\stm32f4xx_hal_rcc.o" lastModified="14dad4da4ff"/>
+         <source file="..\obj\startup_stm32f429xx.o" lastModified="14dad4da3f6"/>
+         <source file="..\obj\delay.o" lastModified="14dad4da260"/>
+         <source file="..\obj\firstAssignment.o" lastModified="14dad4da3e6"/>
+         <source file="..\obj\main.o" lastModified="14dad4da388"/>
+      </target>
+   </processor>
+</history>
