@@ -14,6 +14,6 @@
 
 uint32_t getCurrentTime();
 int delay(uint32_t delayCycle);
-
+int halfSecHasNotExpire();
 
 #endif //__DELAY_H

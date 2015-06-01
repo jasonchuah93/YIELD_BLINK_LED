@@ -7,20 +7,15 @@
 
 //Main function
 int main(void){
-
+	//State state = INITIAL;
+	TaskBlock LED1_tb;
+	initTaskBlock(&LED1_tb);
+	initLED(LED1);
+	initLED(LED2);
 	initButton();
-	State state1 = INITIAL;
-	State state2 = INITIAL;
-	State state3 = INITIAL;
-	State state4 = INITIAL;
 	while(1){
-		state1 = LED1_SM(state1);
-		state2 = LED2_SM(state2);
-		state3 = LED3_SM(state3);
-		state4 = LED4_SM(state4);
-
+		yield_LED1(&LED1_tb);
 	}
-
 }
 
 

@@ -10,8 +10,8 @@ typedef struct{
 }TaskBlock;
 
 #define initTaskBlock(x)  	((x)->state = 0)
+#define yield(x) 			(x)->state = __LINE__; return 1 ; case __LINE__ :
 #define startTask(x) 		switch ((x)->state) { case 0:
-#define yield(x) 			(x)->state = __LINE__ ; return 1 ; case __LINE__ :
 #define endTask(x) 			}
 
 #endif //__LITETASKER_H

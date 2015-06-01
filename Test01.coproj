@@ -73,38 +73,30 @@
     <File name="liteTasker.h" path="app/liteTasker.h" type="1"/>
     <File name="Hardware" path="" type="2"/>
     <File name="Hardware/stm32f4xx_hal.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h" type="1"/>
-    <File name="thirdAssignment.h" path="app/thirdAssignment.h" type="1"/>
     <File name="initializeLEDs.c" path="app/initializeLEDs.c" type="1"/>
-    <File name="secondAssignment.c" path="app/secondAssignment.c" type="1"/>
     <File name="system_stm32f4xx.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h" type="1"/>
     <File name="delay.h" path="app/delay.h" type="1"/>
     <File name="stm32f429xx.h" path="stm32f429xx.h" type="1"/>
-    <File name="forthAssignment.c" path="app/forthAssignment.c" type="1"/>
-    <File name="thirdAssignment.c" path="app/thirdAssignment.c" type="1"/>
     <File name="Hardware/stm32f4xx_hal_cortex.c" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c" type="1"/>
-    <File name="testYield.c" path="app/testYield.c" type="1"/>
+    <File name="yieldLED1.h" path="app/yieldLED1.h" type="1"/>
     <File name="system_stm32f4xx.c" path="../STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/WWDG/WWDG_Example/Src/system_stm32f4xx.c" type="1"/>
     <File name="Hardware/stm32f4xx_hal_rcc.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h" type="1"/>
     <File name="Hardware/stm32f4xx_hal.c" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" type="1"/>
-    <File name="secondAssignment.h" path="app/secondAssignment.h" type="1"/>
     <File name="button.c" path="app/button.c" type="1"/>
     <File name="initializeLEDs.h" path="app/initializeLEDs.h" type="1"/>
-    <File name="forthAssignment.h" path="app/forthAssignment.h" type="1"/>
     <File name="stm32f4xx_hal_conf.h" path="stm32f4xx_hal_conf.h" type="1"/>
-    <File name="firstAssignment.h" path="app/firstAssignment.h" type="1"/>
     <File name="Hardware/stm32f4xx_hal_gpio.c" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" type="1"/>
     <File name="Core/core_cm4.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/CMSIS/Include/core_cm4.h" type="1"/>
     <File name="button.h" path="app/button.h" type="1"/>
-    <File name="testYield.h" path="app/testYield.h" type="1"/>
     <File name="Hardware/stm32f4xx_hal_def.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" type="1"/>
-    <File name="Hardware/stm32f4xx_hal_cortex.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h" type="1"/>
     <File name="Hardware/stm32f4xx_hal_gpio.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h" type="1"/>
+    <File name="Hardware/stm32f4xx_hal_cortex.h" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h" type="1"/>
+    <File name="yieldLED1.c" path="app/yieldLED1.c" type="1"/>
     <File name="Hardware/stm32f4xx_hal_rcc.c" path="../STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c" type="1"/>
     <File name="startup_stm32f429xx.s" path="startup_stm32f429xx.s" type="1"/>
     <File name="stm32f4xx.h" path="stm32f4xx.h" type="1"/>
-    <File name="Core" path="" type="2"/>
     <File name="delay.c" path="app/delay.c" type="1"/>
-    <File name="firstAssignment.c" path="app/firstAssignment.c" type="1"/>
+    <File name="Core" path="" type="2"/>
     <File name="main.c" path="app/main.c" type="1"/>
   </Files>
   <Bookmarks/>
